@@ -1,0 +1,17 @@
+C:\Users\egork\Source\Repos\TZ\TZ\bin\Debug\netcoreapp3.1\TZ.exe
+C:\Users\egork\Source\Repos\TZ\TZ\bin\Debug\netcoreapp3.1\TZ.deps.json
+C:\Users\egork\Source\Repos\TZ\TZ\bin\Debug\netcoreapp3.1\TZ.runtimeconfig.json
+C:\Users\egork\Source\Repos\TZ\TZ\bin\Debug\netcoreapp3.1\TZ.runtimeconfig.dev.json
+C:\Users\egork\Source\Repos\TZ\TZ\bin\Debug\netcoreapp3.1\TZ.dll
+C:\Users\egork\Source\Repos\TZ\TZ\bin\Debug\netcoreapp3.1\TZ.pdb
+C:\Users\egork\Source\Repos\TZ\TZ\obj\Debug\netcoreapp3.1\TZ.csprojAssemblyReference.cache
+C:\Users\egork\Source\Repos\TZ\TZ\obj\Debug\netcoreapp3.1\TZ.AssemblyInfoInputs.cache
+C:\Users\egork\Source\Repos\TZ\TZ\obj\Debug\netcoreapp3.1\TZ.AssemblyInfo.cs
+C:\Users\egork\Source\Repos\TZ\TZ\obj\Debug\netcoreapp3.1\TZ.csproj.CoreCompileInputs.cache
+C:\Users\egork\Source\Repos\TZ\TZ\obj\Debug\netcoreapp3.1\TZ.dll
+C:\Users\egork\Source\Repos\TZ\TZ\obj\Debug\netcoreapp3.1\TZ.pdb
+C:\Users\egork\Source\Repos\TZ\TZ\obj\Debug\netcoreapp3.1\TZ.genruntimeconfig.cache
+C:\Users\egork\Source\Repos\TZ\TZ\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\egork\Source\Repos\TZ\TZ\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\egork\Source\Repos\TZ\TZ\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\egork\Source\Repos\TZ\TZ\obj\Debug\netcoreapp3.1\TZ.csproj.CopyComplete
